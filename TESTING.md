@@ -41,10 +41,10 @@ To successfully test the Flask CRUD application with Burp Suite, ensure you have
 Below are the screenshots capturing the testing process in Burp Suite.
 
 ### 1. Burp Suite HTTP History
-![Burp Suite HTTP History](Screenshot (50).png.png)
+![Burp Suite HTTP History](Screenshot(50).png.png)
 
 ### 2. Create User Request
-![Create User Request](Screenshot (51).png.png)
+![Create User Request](Screenshot(51).png.png)
 
 
 
